@@ -39,3 +39,4 @@ dinner
 ## In our snacks method, the default choice is "Cheetos" Calling snacks like this without specifying a choice will return "Any time, is the right time for Cheetos!"
 ## This returns "Any time, is the right time for Sweedish fish!"
 # Call your methods without any arguments here
+# Define breakfast, lunch and dinner methods that return the meal choice passed into them. If nothing is passed in, it shoud default to the foods on the readme (frosted flake, grilled cheese, salmon)
