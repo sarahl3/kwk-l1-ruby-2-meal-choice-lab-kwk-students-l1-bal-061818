@@ -16,7 +16,7 @@ puts snacks("Swedish fish")
 ## This returns "Any time, is the right time for Sweedish fish!"
 # Call your methods without any arguments here
 puts snacks
-## In our snacks method, the default choice is "Cheetos" Calling snacks like this without specifying a choice will return "Any time, is the right time for Cheetos!"
+
 # call your methods here
 def breakfast (food = "frosted flakes")
   puts "Morning is the best time for #{food}!"
