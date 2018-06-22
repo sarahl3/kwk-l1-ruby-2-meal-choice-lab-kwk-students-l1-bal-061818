@@ -34,5 +34,4 @@ lunch("peanut butter")
 def dinner (food = "salmon")
   puts "Evening is the best time for #{food}!"
 end
-dinner
 dinner("broccoli")
